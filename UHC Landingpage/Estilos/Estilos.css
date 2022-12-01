@@ -1,0 +1,134 @@
+
+*{
+    
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.MeltedMonster{
+    font-family: 'Monster';
+}
+.fw300{
+    font-weight: 300;
+}
+.fw400{
+    font-weight: 400;
+}
+
+.fw600{
+    font-weight: 600;
+}
+
+.fw900{
+    font-weight: 900;
+}
+
+.s7{
+    font-size: 7rem;
+}
+
+.s3{
+    font-size: 2.7rem;
+    letter-spacing: 15px;
+}
+
+.s2{
+    font-size: 1.6rem;
+}
+
+nav ul li:hover {
+    background: #ff00004d;
+}
+.cool-btn{
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    padding: .4rem 1rem;
+    border: 1px solid #fff;
+    font-size: 1.5rem;
+    width: 35%;
+    transition: 0.3s
+}
+
+.cool-btn:hover{
+    transform: translateY(-10px);
+    background-color: rgb(255, 255, 255);
+    color: #000
+}
+
+#logoimg2{
+    text-align: center;
+    background: rgb(109, 3, 3);
+    height: auto;
+}
+#con{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: rgb(255, 255, 255);
+    height: 400px;
+    text-align: justify;
+    width: 1150px;
+    margin: 10px ;
+    
+    
+}
+#conP{
+    background: rgb(0, 0, 0); 
+    height: 550px;
+    width: 1200px;
+    margin: 10px ;
+    text-align:right;
+}
+#conh{
+    background: rgb(255, 255, 255); 
+    height: 200px;
+    width: 1000px;
+    margin: 10px ;
+    text-align:justify;
+}
+
+#con1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: rgb(255, 255, 255);
+    height: 290px;
+    text-align: right;
+    width: 1200px;
+    margin: 10px ;
+    
+    
+}
+#conP1{
+    background: rgb(102, 63, 36); 
+    height: 420px;
+    width: 1200px;
+    margin: 10px ;
+    text-align:left;
+}
+#conh1{
+    background: rgb(255, 255, 255); 
+    height: 250px;
+    width: 1100px;
+    margin: 10px ;
+    text-align:justify;
+}
+#conPe{
+    background: rgb(5, 24, 109); 
+    height: 1500px;
+    width: 1200px;
+    margin: 10px ;
+    text-align:justify;
+    padding: auto;
+}
+#conhh{
+    background: rgb(255, 255, 255); 
+    height: 1450px;
+    width: 1100px;
+    margin: 10px ;
+    text-align:justify;
+}
+#ima{
+    text-align: center;
+    height: 400px;
+    width: 400px;
+    list-style: none;
+    margin: 10px;
+    align-content: center;
+}
+

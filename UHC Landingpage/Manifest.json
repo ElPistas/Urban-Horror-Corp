@@ -1,0 +1,30 @@
+{ 
+    "name":"Urban Horror Corp",
+    "short_name":"UHC",
+    "url":"./Principal.html",
+    "start_url":"./Index.html",
+    "display":"standalone",
+    "orientation":"portrait",
+    "background_color":"#fff",
+    "theme_color":"#fff",
+    "description":"Somos una empresa desarrolladora que busca crear videojuegos referentes a leyendas urbanas, desarrollando juegos de genero Terror y Thriller.",
+    "scope": "./",
+    "icons":[
+        {
+            "src":"./img/maskable_icon_x512.png",
+            "type":"image/png",
+            "sizes":"512x512"
+        },
+        {
+            "src":"./img/maskable_icon_x384.png",
+            "type":"image/png",
+            "sizes": "384x384"
+        },
+        {
+            "src":"./img/maskable_icon_x128.png",
+            "type":"image/png",
+            "sizes":"128x128"
+        }
+    ]
+}
+
